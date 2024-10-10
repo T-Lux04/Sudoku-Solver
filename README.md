@@ -1,2 +1,2 @@
 # Sudoku-Solver
-Trying a AI algorithm backtracking to solve a simple sudoku problem
+Trying an AI algorithm, backtracking to solve a simple sudoku problem
